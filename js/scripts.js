@@ -90,8 +90,8 @@ $(document).ready(function () {
 
 //email set up
 function alertSubmision() {
-    let name = document.getElementById("Name").value;
-    let email = document.getElementById("Email").value;
+    let name = document.getElementById("NAME").value;
+    let email = document.getElementById("EMAIL").value;
 
     if (name === "" || email === "") {
         alert("Please fill the form for us to be happy!!");

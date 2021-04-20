@@ -1,0 +1,74 @@
+.image {
+    position: relative;
+    text-align: center;
+    color: #ffff;
+    font-size: 20px;
+}
+.background{
+    background-image: url("./IP3/background/h_img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20%
+}
+
+ .logo {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    right: 30%;
+    bottom: 50%;
+    font-size: 20px;
+} 
+
+.about-us{
+    text-align: center;
+    font-size: 23px;
+}
+
+.service-image {
+    background-image: url("./IP3/background/s_image.jpg");
+    background-repeat: no-repeat;
+    padding: 15%;
+    text-align: center;
+    background-position: center;
+    font-size: 18px;
+    color: #ffff;
+    font-size: 25px;
+}
+
+#services {
+    margin-top: -6cm;
+    color: #ffff;
+} 
+
+
+.what-we-do{
+    text-align: center;
+}
+
+#Portfolio{
+    text-align: center;
+}
+
+
+#email-section {
+    background-image: url("./IP3/background/c_image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10%
+}
+
+
+#contact{
+    color:white;
+    text-align:center;
+}
+.email{
+
+    display: flex;
+    justify-content:space-between;
+}
+
+#footer{
+    text-align: center;
+}

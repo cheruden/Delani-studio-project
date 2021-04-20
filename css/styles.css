@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
   }
+.main-title {
+    font-family: Musicals;
+}
+
+.sub-title {
+    font-family: Jazz;
+}
 img{
         height: auto;
         max-width: 100%;

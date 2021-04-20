@@ -66,13 +66,6 @@ img{
 #mc_embed_signup{
     background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
 }
-
-
-
-
-
-
-
 .contact {
     background-image: url(/assets/backgrounds/c_image.jpg);
     height: 100vh;
@@ -234,44 +227,7 @@ textarea {
     .contact-overlay {
         height: 100vh;
     }
-}/*
-
-.social-section {
-    color: rgb(0, 0, 0);
-    height: 50vh;
-    margin: 0 0 0 0;
 }
-
-.social-icons-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
-
-.social-icon {
-    border: none;
-    transition: .2s linear 0s;
-}
-
-.social-icon:hover,
-.social-icon:active {
-    cursor: pointer;
-    transform: scale(1.1);
-}
-
-
-.fdL {
-    opacity: 0;
-    margin-left: -100%;
-}
-
-.fdalt {
-    opacity: 1;
-    margin-left: 5%;
-    transition: .7s linear 1s;
-}*/
-
 .footer-link {
     color: rgb(255, 136, 0);
     font-weight: 700;
@@ -308,51 +264,7 @@ textarea {
     .social-section {
         height: 50vh;
     }
-}/*
-
-.ripple-container {
-    position: fixed;
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    height: 120vh;
-    z-index: 99999;
-    background-color: rgb(255, 136, 0);
-    margin: 0 0 10% 0;
 }
-
-.lds-ripple {
-    position: absolute;
-    top: 50%;
-    left: 25%;
-    transform: translate(-50%, -50%);
-}
-
-.lds-ripple div {
-    position: absolute;
-    border: 4px solid #fff;
-    opacity: 1;
-    border-radius: 50%;
-    animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
-}
-
-.lds-ripple div:nth-child(2) {
-    animation-delay: -0.5s;
-}
-
-.preloader {
-    animation: disappear 2s linear forwards;
-    transition: 2s linear 0s;
-}
-
-.load-text {
-    position: absolute;
-    top: 65%;
-    left: 25%;
-    color: white;
-    font-family: "Lora", serif;
-    font-weight: 700;
-}*/
 
 @media(min-width:768px) {
 

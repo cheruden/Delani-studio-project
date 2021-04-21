@@ -22,7 +22,7 @@ img{
         font-size: 20px;
     }
 .background{
-        /*background-image: url("/images/backgrounds/h_img.jpg");*/
+        background-image: url("/images/backgrounds/h_img.jpg");
         background-repeat: no-repeat;
         background-position: center;
         padding: 20%
@@ -34,7 +34,7 @@ img{
 }
 
 .service-image {
-    /*background-image: url("/images/backgrounds/s_image.jpg");*/
+    background-image: url("/images/backgrounds/s_image.jpg");
     background-repeat: no-repeat;
     padding: 15%;
     text-align: center;
@@ -74,7 +74,7 @@ img{
     background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
 }
 .contact {
-    /*background-image: url("/images/backgrounds/c_image.jpg");*/
+    background-image: url("/images/backgrounds/c_image.jpg");
     height: 100vh;
     margin: 15% 0 0 0;
     background-position: center;
